@@ -9,7 +9,7 @@ function App() {
       <div className="black-nav">
         <div style={posts}>개발 Blog</div>
       </div>
-      <h4>블로그 글</h4>
+      <h4>블로그 </h4>
     </div>
   )
 }
